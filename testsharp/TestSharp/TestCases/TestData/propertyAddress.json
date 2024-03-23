@@ -1,0 +1,14 @@
+{
+  "propertyAddress" : {
+    "streetAddress" : "14862 Par Club Cir",
+    "addressLine2" : "Address2",
+    "city" : "Tampa",
+    "zipCode" : "33618",
+    "firstName": "Zack",
+    "lastName": "Bloss",
+    "fullName": "Zack Bloss",
+    "company": "CompanyA",
+    "emailAddress": "dyeromenko93@gmail.com",
+    "phoneNumber": "111-222-3344"
+  }
+}

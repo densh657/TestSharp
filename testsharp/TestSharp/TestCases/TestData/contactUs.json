@@ -1,0 +1,17 @@
+{
+  "contactUs" : {
+    "firstName" : "Electric",
+    "lastName" : "Wizard",
+    "email" : "45says666@gmail.com",
+    "phone" : "800-576-8888",
+    "jobTitle" : "SDET",
+    "company" : ":Loggerhead",
+    "country" : "Ukraine",
+    "comments" : "THIS IS A TEST!",
+    "streetAddress" : "14862 Par Club Cir",
+    "addressLine2" : "Address2",
+    "city" : "Tampa",
+    "zipCode" : "33618"
+    
+  }
+}
