@@ -20,8 +20,9 @@ namespace TestSharp.TestCases.Tests
             DataSetup td = new DataSetup("TestCases/TestData/propertyAddress");
             driver.GoToSite("https://nuqleous.com/contact/");
             var ContactPage = new Pages.ContactPage(driver);
-            ContactPage.AssertFieldsRequired("AAAPlease complete all required fields.");
+            ContactPage.AssertFieldsRequired("Please complete all required fields.");
             ContactPage.CompleteForm(td.fullName, td.company, td.emailAddress, td.phoneNumber, "message text");
+            //I've added some text here
         }
     }
 }
