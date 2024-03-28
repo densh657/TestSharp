@@ -437,9 +437,7 @@
     <Compile Include="Source\WebDriver\TestBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestCases\DataSetup.cs" />
-    <Compile Include="TestCases\Pages\ContactPage.cs" />
     <Compile Include="TestCases\Pages\SearchTest.cs" />
-    <Compile Include="TestCases\Tests\ContactUsTest.cs" />
     <Compile Include="TestCases\Tests\SearchTest.cs" />
   </ItemGroup>
   <ItemGroup>
